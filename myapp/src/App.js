@@ -9,6 +9,7 @@ function App() {
       <h3>fjn</h3>
       <h4>Extra</h4>
       <h1>Checking</h1>
+      <h1>Group Verification</h1>
     </div>
   );
 }
